@@ -33,6 +33,10 @@ import applestore from './applestore.png'
 import goggle from './goggle.png'
 import background from './background.png'
 import playicon from './Playicon.png'
+
+
+
+
 const asstes ={
     logo,
     Image,
