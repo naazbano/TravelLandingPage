@@ -98,7 +98,7 @@ const BookTrip = () => {
           </div>
 
           {/* Floating Rome Card */}
-          <div className="absolute -bottom-10 sm:bottom-12 sm:right-0 w-40 sm:w-48 bg-white p-3 rounded-2xl shadow-xl flex items-center gap-3">
+          <div className="absolute top-60 -right-3 sm:bottom-12 sm:right-0 w-40 sm:w-48 bg-white p-2 rounded-2xl shadow-xl flex items-center gap-3 lg:right-15 lg:w-60 ">
             <img
               src={assets.rome}
               alt="Trip to Rome"

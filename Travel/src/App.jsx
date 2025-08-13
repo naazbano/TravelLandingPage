@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import Hero from './pages/Hero'
-import Section from './pages/Services'
+import Section from './pages/Section'
 import Designation from './pages/Designation'
 import BookTrip from './pages/BookTrip'
 import Testominals from './pages/Testominals'

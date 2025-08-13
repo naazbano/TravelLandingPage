@@ -19,7 +19,7 @@ const Testimonials = () => {
         {/* Right Side - Cards */}
         <div className="relative flex flex-col items-start md:items-end ">
           {/* Top Card */}
-          <div className="bg-white shadow-lg rounded-lg p-6 max-w-md z-20 relative right-40 ">
+          <div className="bg-white shadow-lg rounded-lg p-6 max-w-md z-20  lg:relative lg:right-40  ">
             <div className="flex items-center mb-4 ">
               <img
                 src={assets.mikeTaylor}

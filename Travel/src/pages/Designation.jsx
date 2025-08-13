@@ -23,7 +23,7 @@ const Designation = () => {
   </div>
 </section>
 
-    <Card/>
+<Card/>
   
    </>
   )

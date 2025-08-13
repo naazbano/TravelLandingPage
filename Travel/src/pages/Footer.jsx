@@ -59,7 +59,7 @@ const Footer = () => {
           </p>
 
           {/* App Store badges */}
-          <div className="flex  justify-center  sm:justify-start  gap-2 mt-3 relative right-10 ">
+          <div className="flex justify-center  sm:justify-start  gap-2 mt-3  md:relative md:right-5 lg:relative  lg:right-10 ">
             <img src={assets.goggle} alt="Google Play" className="w-32 cursor-pointer" />
             <img src={assets.applestore} alt="App Store" className="w-32 cursor-pointer" />
           </div>
